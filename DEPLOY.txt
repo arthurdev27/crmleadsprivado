@@ -1,0 +1,8 @@
+1. Crie projeto no Supabase Free.
+2. Rode supabase.sql.
+3. Suba esta pasta para um GitHub privado.
+4. Importe o repositório na Vercel.
+5. Configure as 6 variáveis do .env.example.
+6. Deploy.
+7. Entre com ADMIN_PASSWORD e busque leads.
+NÃO É NECESSÁRIO GOOGLE CLOUD, GOOGLE MAPS API KEY OU CARTÃO.
