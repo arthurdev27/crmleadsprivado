@@ -1,0 +1,6 @@
+1. Suba TODO o conteúdo desta pasta na RAIZ do GitHub.
+2. A Vercel deve encontrar api/index.py.
+3. Configure ADMIN_PASSWORD e SESSION_SECRET.
+4. A integração Supabase fornece SUPABASE_URL e SUPABASE_SECRET_KEY; o backend aceita SUPABASE_SECRET_KEY.
+5. Rode supabase.sql no SQL Editor.
+6. Faça Redeploy.
